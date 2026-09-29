@@ -1,0 +1,7 @@
+{
+  "name": "Ayan Academy",
+  "description": "Professional accounting training institute offering practical courses in Tally Prime, GST, TDS, Advanced Excel, and corporate accounting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
