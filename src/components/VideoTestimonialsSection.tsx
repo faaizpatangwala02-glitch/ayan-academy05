@@ -86,7 +86,7 @@ export const VideoTestimonialsSection: React.FC = () => {
         </motion.div>
 
         {/* Exactly 3 Testimonial Cards: 3 in one row on desktop/tablet, stacked vertically on mobile */}
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-6 lg:gap-8 max-w-5xl mx-auto items-center">
+        <div className="grid grid-cols-1 sm:grid-cols-2 gap-6 lg:gap-8 max-w-4xl mx-auto items-start">
           {VIDEO_TESTIMONIALS.map((item, idx) => {
             return (
               <motion.div
