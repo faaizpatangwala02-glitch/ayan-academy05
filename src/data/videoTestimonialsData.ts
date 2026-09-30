@@ -30,7 +30,7 @@ export const TESTIMONIAL_POSTER_SRC_3 =
   'https://res.cloudinary.com/z6ncmaq4/video/upload/so_1,q_auto:best/v1790333372/video2_final.jpg';
 
 export const TESTIMONIAL_POSTER_SRC_4 =
-  '/ayan_academy_logo.png';
+  '/video4_poster.jpg';
 
 
 export const VIDEO_TESTIMONIALS: VideoTestimonial[] = [
