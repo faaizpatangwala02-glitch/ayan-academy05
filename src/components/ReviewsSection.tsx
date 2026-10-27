@@ -63,7 +63,7 @@ export const ReviewsSection: React.FC = () => {
 
                 {/* Updated Google Review Count */}
                 <span className="font-semibold text-slate-600">
-                  234 Reviews
+                  246 Reviews
                 </span>
               </div>
 
